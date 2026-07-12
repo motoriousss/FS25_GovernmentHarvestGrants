@@ -19,10 +19,10 @@ your farm a bonus for supplying them.
 - **A year-start popup** explaining which crops were picked and why, with a
   short in-character reason (disease outbreak, import crisis, factory
   shortage, or something more tongue-in-cheek) - see `src/CropPool.lua` for
-  the full list, or ask and I'll paste it again.
-- **A "Government Harvest Grants" tab** in the pause menu (next to
-  Statistics) showing, per active crop: your current silo stock, max
-  price, bonus/t, bonus target, target bonus, and potential earnings.
+  the full list.
+- **A "Government Harvest Grants" tab** in the pause menu showing, per active
+  crop: your current silo stock, max price, bonus/t, bonus target, target
+  bonus, and potential earnings.
 - **Give crop straight from your silo**: select a crop, type a tonnage (or
   hit Give All), hit Claim Amount (or press Enter) - it's removed from your
   silo and you're paid market price + bonus immediately, no need to drive
@@ -41,8 +41,7 @@ green bean, pea, spinach, grape, olive, cotton, rice.
 
 ## Installation
 
-1. Zip the contents of this folder (everything *inside* it, not the folder
-   itself) into `FS25_GovernmentHarvestGrants.zip`.
+1. Download the latest `FS25_GovernmentHarvestGrants.zip` release zip file.
 2. Put the zip in `...\Documents\My Games\FarmingSimulator2025\mods\`.
 3. Enable it from the in-game mod selection screen when starting/loading a
    savegame.
