@@ -1,0 +1,3 @@
+## Pretext
+Hello all, I just wanted to start by saying that I am not a modder, and I am not very familiar with coding. I just like simulators and I had been thinking about this grant system to add some variety and give some motivation to plant something apart from just the most valuable crop per acre. I know there are plenty of other things that help with this too like the crop rotation planner etc. which hopefully will work well beside this mod.
+I decided to give this a shot with the help of Claude AI who did all of the heavy lifting - and we used the Time Saving Stock Check mod to figure out how to create a menu page. So thank you to [twproductions](https://www.farming-simulator.com/mods.php?title=fs2025&filter=org&org_id=230972&page=0) for the help.
